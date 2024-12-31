@@ -3,6 +3,5 @@ agp = "8.7.3"
 
 [plugins]
 agp-app = { id = "com.android.application", version.ref = "agp" }
-lsplugin-apksign = { id = "org.lsposed.lsplugin.apksign", version = "1.4" }
 
 [libraries]
